@@ -1,2 +1,1 @@
-# ETH-Black-Hole
-👩‍🚀 ETH BLACK HOLE 🪐
+# 👩‍🚀 ETH BLACK HOLE 🪐
