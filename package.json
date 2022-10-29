@@ -1,0 +1,19 @@
+{
+  "name": "eth-black-hole",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js",
+    "check": "node src/keyBalChecker.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@ethereumjs/common": "^2.6.1",
+    "dotenv": "^15.0.0",
+    "ethereumjs-tx": "^2.1.2",
+    "web3": "^1.7.0"
+  }
+}
